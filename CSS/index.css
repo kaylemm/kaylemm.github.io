@@ -432,3 +432,6 @@ body {
     border-top-right-radius: 8em;
     border-bottom: 4px solid #e67e22;
 }
+.center{
+    position: center;
+}
