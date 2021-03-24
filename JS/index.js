@@ -5,3 +5,7 @@ window.onclick = function(event) {
     modal.style.display = "none";
   }
 }
+
+function goBack() {
+  window.history.back();
+}
