@@ -9482,4 +9482,2854 @@
         .youtube-bar::before {
             background-color: red !important;
             filter: brightness(50%)
+        }ent 26px, #006266 0) !important
+        }
+        
+        .aqua-blue-paper::before {
+            border-color: #006266 transparent !important;
+            filter: brightness(75%) !important
+        }
+        
+        .aqua-blue-bar {
+            background-color: #006266 !important
+        }
+        
+        .aqua-blue-bar::before {
+            background-color: #006266 !important;
+            filter: brightness(50%)
+        }
+        
+        .asbestos {
+            background-color: #7f8c8d !important
+        }
+        
+        .asbestos-fill {
+            fill: #7f8c8d !important
+        }
+        
+        .asbestos-text {
+            color: #7f8c8d !important
+        }
+        
+        .asbestos-dropshadow {
+            background-color: #7f8c8d;
+            filter: drop-shadow(5px 5px 0 rgba(127, 140, 141, 0.6))
+        }
+        
+        .asbestos-paper {
+            background: linear-gradient(225deg, transparent 26px, #7f8c8d 0) !important
+        }
+        
+        .asbestos-paper::before {
+            border-color: #7f8c8d transparent !important;
+            filter: brightness(75%) !important
+        }
+        
+        .asbestos-bar {
+            background-color: #7f8c8d !important
+        }
+        
+        .asbestos-bar::before {
+            background-color: #7f8c8d !important;
+            filter: brightness(50%)
+        }
+        
+        .belize-hole {
+            background-color: #2980b9 !important
+        }
+        
+        .belize-hole-fill {
+            fill: #2980b9 !important
+        }
+        
+        .belize-hole-text {
+            color: #2980b9 !important
+        }
+        
+        .belize-hole-dropshadow {
+            background-color: #2980b9;
+            filter: drop-shadow(5px 5px 0 rgba(41, 128, 185, 0.6))
+        }
+        
+        .belize-hole-paper {
+            background: linear-gradient(225deg, transparent 26px, #2980b9 0) !important
+        }
+        
+        .belize-hole-paper::before {
+            border-color: #2980b9 transparent !important;
+            filter: brightness(75%) !important
+        }
+        
+        .belize-hole-bar {
+            background-color: #2980b9 !important
+        }
+        
+        .belize-hole-bar::before {
+            background-color: #2980b9 !important;
+            filter: brightness(50%)
+        }
+        
+        .black {
+            background-color: #000 !important
+        }
+        
+        .black-fill {
+            fill: #000 !important
+        }
+        
+        .black-text {
+            color: #000 !important
+        }
+        
+        .black-dropshadow {
+            background-color: #000;
+            filter: drop-shadow(5px 5px 0 rgba(0, 0, 0, 0.6))
+        }
+        
+        .black-paper {
+            background: linear-gradient(225deg, transparent 26px, #000 0) !important
+        }
+        
+        .black-paper::before {
+            border-color: #000 transparent !important;
+            filter: brightness(75%) !important
+        }
+        
+        .black-bar {
+            background-color: #000 !important
+        }
+        
+        .black-bar::before {
+            background-color: #000 !important;
+            filter: brightness(50%)
+        }
+        
+        .blurple {
+            background-color: #7289da !important
+        }
+        
+        .blurple-fill {
+            fill: #7289da !important
+        }
+        
+        .blurple-text {
+            color: #7289da !important
+        }
+        
+        .blurple-dropshadow {
+            background-color: #7289da;
+            filter: drop-shadow(5px 5px 0 rgba(114, 137, 218, 0.6))
+        }
+        
+        .blurple-paper {
+            background: linear-gradient(225deg, transparent 26px, #7289da 0) !important
+        }
+        
+        .blurple-paper::before {
+            border-color: #7289da transparent !important;
+            filter: brightness(75%) !important
+        }
+        
+        .blurple-bar {
+            background-color: #7289da !important
+        }
+        
+        .blurple-bar::before {
+            background-color: #7289da !important;
+            filter: brightness(50%)
+        }
+        
+        .cardboard {
+            background-color: #a58855 !important
+        }
+        
+        .cardboard-fill {
+            fill: #a58855 !important
+        }
+        
+        .cardboard-text {
+            color: #a58855 !important
+        }
+        
+        .cardboard-dropshadow {
+            background-color: #a58855;
+            filter: drop-shadow(5px 5px 0 rgba(165, 136, 85, 0.6))
+        }
+        
+        .cardboard-paper {
+            background: linear-gradient(225deg, transparent 26px, #a58855 0) !important
+        }
+        
+        .cardboard-paper::before {
+            border-color: #a58855 transparent !important;
+            filter: brightness(75%) !important
+        }
+        
+        .cardboard-bar {
+            background-color: #a58855 !important
+        }
+        
+        .cardboard-bar::before {
+            background-color: #a58855 !important;
+            filter: brightness(50%)
+        }
+        
+        .carrot {
+            background-color: #e67e22 !important
+        }
+        
+        .carrot-fill {
+            fill: #e67e22 !important
+        }
+        
+        .carrot-text {
+            color: #e67e22 !important
+        }
+        
+        .carrot-dropshadow {
+            background-color: #e67e22;
+            filter: drop-shadow(5px 5px 0 rgba(230, 126, 34, 0.6))
+        }
+        
+        .carrot-paper {
+            background: linear-gradient(225deg, transparent 26px, #e67e22 0) !important
+        }
+        
+        .carrot-paper::before {
+            border-color: #e67e22 transparent !important;
+            filter: brightness(75%) !important
+        }
+        
+        .carrot-bar {
+            background-color: #e67e22 !important
+        }
+        
+        .carrot-bar::before {
+            background-color: #e67e22 !important;
+            filter: brightness(50%)
+        }
+        
+        .clouds {
+            background-color: #ecf0f1 !important
+        }
+        
+        .clouds-fill {
+            fill: #ecf0f1 !important
+        }
+        
+        .clouds-text {
+            color: #ecf0f1 !important
+        }
+        
+        .clouds-dropshadow {
+            background-color: #ecf0f1;
+            filter: drop-shadow(5px 5px 0 rgba(236, 240, 241, 0.6))
+        }
+        
+        .clouds-paper {
+            background: linear-gradient(225deg, transparent 26px, #ecf0f1 0) !important
+        }
+        
+        .clouds-paper::before {
+            border-color: #ecf0f1 transparent !important;
+            filter: brightness(75%) !important
+        }
+        
+        .clouds-bar {
+            background-color: #ecf0f1 !important
+        }
+        
+        .clouds-bar::before {
+            background-color: #ecf0f1 !important;
+            filter: brightness(50%)
+        }
+        
+        .concrete {
+            background-color: #95a5a6 !important
+        }
+        
+        .concrete-fill {
+            fill: #95a5a6 !important
+        }
+        
+        .concrete-text {
+            color: #95a5a6 !important
+        }
+        
+        .concrete-dropshadow {
+            background-color: #95a5a6;
+            filter: drop-shadow(5px 5px 0 rgba(149, 165, 166, 0.6))
+        }
+        
+        .concrete-paper {
+            background: linear-gradient(225deg, transparent 26px, #95a5a6 0) !important
+        }
+        
+        .concrete-paper::before {
+            border-color: #95a5a6 transparent !important;
+            filter: brightness(75%) !important
+        }
+        
+        .concrete-bar {
+            background-color: #95a5a6 !important
+        }
+        
+        .concrete-bar::before {
+            background-color: #95a5a6 !important;
+            filter: brightness(50%)
+        }
+        
+        .cubered {
+            background-color: #ef0c0c !important
+        }
+        
+        .cubered-fill {
+            fill: #ef0c0c !important
+        }
+        
+        .cubered-text {
+            color: #ef0c0c !important
+        }
+        
+        .cubered-dropshadow {
+            background-color: #ef0c0c;
+            filter: drop-shadow(5px 5px 0 rgba(239, 12, 12, 0.6))
+        }
+        
+        .cubered-paper {
+            background: linear-gradient(225deg, transparent 26px, #ef0c0c 0) !important
+        }
+        
+        .cubered-paper::before {
+            border-color: #ef0c0c transparent !important;
+            filter: brightness(75%) !important
+        }
+        
+        .cubered-bar {
+            background-color: #ef0c0c !important
+        }
+        
+        .cubered-bar::before {
+            background-color: #ef0c0c !important;
+            filter: brightness(50%)
+        }
+        
+        .dark-not-black {
+            background-color: #2c2f33 !important
+        }
+        
+        .dark-not-black-fill {
+            fill: #2c2f33 !important
+        }
+        
+        .dark-not-black-text {
+            color: #2c2f33 !important
+        }
+        
+        .dark-not-black-dropshadow {
+            background-color: #2c2f33;
+            filter: drop-shadow(5px 5px 0 rgba(44, 47, 51, 0.6))
+        }
+        
+        .dark-not-black-paper {
+            background: linear-gradient(225deg, transparent 26px, #2c2f33 0) !important
+        }
+        
+        .dark-not-black-paper::before {
+            border-color: #2c2f33 transparent !important;
+            filter: brightness(75%) !important
+        }
+        
+        .dark-not-black-bar {
+            background-color: #2c2f33 !important
+        }
+        
+        .dark-not-black-bar::before {
+            background-color: #2c2f33 !important;
+            filter: brightness(50%)
+        }
+        
+        .dark {
+            background-color: #343a40 !important
+        }
+        
+        .dark-fill {
+            fill: #343a40 !important
+        }
+        
+        .dark-text {
+            color: #343a40 !important
+        }
+        
+        .dark-dropshadow {
+            background-color: #343a40;
+            filter: drop-shadow(5px 5px 0 rgba(52, 58, 64, 0.6))
+        }
+        
+        .dark-paper {
+            background: linear-gradient(225deg, transparent 26px, #343a40 0) !important
+        }
+        
+        .dark-paper::before {
+            border-color: #343a40 transparent !important;
+            filter: brightness(75%) !important
+        }
+        
+        .dark-bar {
+            background-color: #343a40 !important
+        }
+        
+        .dark-bar::before {
+            background-color: #343a40 !important;
+            filter: brightness(50%)
+        }
+        
+        .disco-ball {
+            background-color: #25ccf7 !important
+        }
+        
+        .disco-ball-fill {
+            fill: #25ccf7 !important
+        }
+        
+        .disco-ball-text {
+            color: #25ccf7 !important
+        }
+        
+        .disco-ball-dropshadow {
+            background-color: #25ccf7;
+            filter: drop-shadow(5px 5px 0 rgba(37, 204, 247, 0.6))
+        }
+        
+        .disco-ball-paper {
+            background: linear-gradient(225deg, transparent 26px, #25ccf7 0) !important
+        }
+        
+        .disco-ball-paper::before {
+            border-color: #25ccf7 transparent !important;
+            filter: brightness(75%) !important
+        }
+        
+        .disco-ball-bar {
+            background-color: #25ccf7 !important
+        }
+        
+        .disco-ball-bar::before {
+            background-color: #25ccf7 !important;
+            filter: brightness(50%)
+        }
+        
+        .emerald {
+            background-color: #2ecc71 !important
+        }
+        
+        .emerald-fill {
+            fill: #2ecc71 !important
+        }
+        
+        .emerald-text {
+            color: #2ecc71 !important
+        }
+        
+        .emerald-dropshadow {
+            background-color: #2ecc71;
+            filter: drop-shadow(5px 5px 0 rgba(46, 204, 113, 0.6))
+        }
+        
+        .emerald-paper {
+            background: linear-gradient(225deg, transparent 26px, #2ecc71 0) !important
+        }
+        
+        .emerald-paper::before {
+            border-color: #2ecc71 transparent !important;
+            filter: brightness(75%) !important
+        }
+        
+        .emerald-bar {
+            background-color: #2ecc71 !important
+        }
+        
+        .emerald-bar::before {
+            background-color: #2ecc71 !important;
+            filter: brightness(50%)
+        }
+        
+        .energy-drink {
+            background-color: #c4e538 !important
+        }
+        
+        .energy-drink-fill {
+            fill: #c4e538 !important
+        }
+        
+        .energy-drink-text {
+            color: #c4e538 !important
+        }
+        
+        .energy-drink-dropshadow {
+            background-color: #c4e538;
+            filter: drop-shadow(5px 5px 0 rgba(196, 229, 56, 0.6))
+        }
+        
+        .energy-drink-paper {
+            background: linear-gradient(225deg, transparent 26px, #c4e538 0) !important
+        }
+        
+        .energy-drink-paper::before {
+            border-color: #c4e538 transparent !important;
+            filter: brightness(75%) !important
+        }
+        
+        .energy-drink-bar {
+            background-color: #c4e538 !important
+        }
+        
+        .energy-drink-bar::before {
+            background-color: #c4e538 !important;
+            filter: brightness(50%)
+        }
+        
+        .fuchsia {
+            background-color: #b33771 !important
+        }
+        
+        .fuchsia-fill {
+            fill: #b33771 !important
+        }
+        
+        .fuchsia-text {
+            color: #b33771 !important
+        }
+        
+        .fuchsia-dropshadow {
+            background-color: #b33771;
+            filter: drop-shadow(5px 5px 0 rgba(179, 55, 113, 0.6))
+        }
+        
+        .fuchsia-paper {
+            background: linear-gradient(225deg, transparent 26px, #b33771 0) !important
+        }
+        
+        .fuchsia-paper::before {
+            border-color: #b33771 transparent !important;
+            filter: brightness(75%) !important
+        }
+        
+        .fuchsia-bar {
+            background-color: #b33771 !important
+        }
+        
+        .fuchsia-bar::before {
+            background-color: #b33771 !important;
+            filter: brightness(50%)
+        }
+        
+        .gold {
+            background-color: gold !important
+        }
+        
+        .gold-fill {
+            fill: gold !important
+        }
+        
+        .gold-text {
+            color: gold !important
+        }
+        
+        .gold-dropshadow {
+            background-color: gold;
+            filter: drop-shadow(5px 5px 0 rgba(255, 215, 0, 0.6))
+        }
+        
+        .gold-paper {
+            background: linear-gradient(225deg, transparent 26px, gold 0) !important
+        }
+        
+        .gold-paper::before {
+            border-color: gold transparent !important;
+            filter: brightness(75%) !important
+        }
+        
+        .gold-bar {
+            background-color: gold !important
+        }
+        
+        .gold-bar::before {
+            background-color: gold !important;
+            filter: brightness(50%)
+        }
+        
+        .green-sea {
+            background-color: #16a085 !important
+        }
+        
+        .green-sea-fill {
+            fill: #16a085 !important
+        }
+        
+        .green-sea-text {
+            color: #16a085 !important
+        }
+        
+        .green-sea-dropshadow {
+            background-color: #16a085;
+            filter: drop-shadow(5px 5px 0 rgba(22, 160, 133, 0.6))
+        }
+        
+        .green-sea-paper {
+            background: linear-gradient(225deg, transparent 26px, #16a085 0) !important
+        }
+        
+        .green-sea-paper::before {
+            border-color: #16a085 transparent !important;
+            filter: brightness(75%) !important
+        }
+        
+        .green-sea-bar {
+            background-color: #16a085 !important
+        }
+        
+        .green-sea-bar::before {
+            background-color: #16a085 !important;
+            filter: brightness(50%)
+        }
+        
+        .greyple {
+            background-color: #99aab5 !important
+        }
+        
+        .greyple-fill {
+            fill: #99aab5 !important
+        }
+        
+        .greyple-text {
+            color: #99aab5 !important
+        }
+        
+        .greyple-dropshadow {
+            background-color: #99aab5;
+            filter: drop-shadow(5px 5px 0 rgba(153, 170, 181, 0.6))
+        }
+        
+        .greyple-paper {
+            background: linear-gradient(225deg, transparent 26px, #99aab5 0) !important
+        }
+        
+        .greyple-paper::before {
+            border-color: #99aab5 transparent !important;
+            filter: brightness(75%) !important
+        }
+        
+        .greyple-bar {
+            background-color: #99aab5 !important
+        }
+        
+        .greyple-bar::before {
+            background-color: #99aab5 !important;
+            filter: brightness(50%)
+        }
+        
+        .highlight {
+            background-color: #181818 !important
+        }
+        
+        .highlight-fill {
+            fill: #181818 !important
+        }
+        
+        .highlight-text {
+            color: #181818 !important
+        }
+        
+        .highlight-dropshadow {
+            background-color: #181818;
+            filter: drop-shadow(5px 5px 0 rgba(24, 24, 24, 0.6))
+        }
+        
+        .highlight-paper {
+            background: linear-gradient(225deg, transparent 26px, #181818 0) !important
+        }
+        
+        .highlight-paper::before {
+            border-color: #181818 transparent !important;
+            filter: brightness(75%) !important
+        }
+        
+        .highlight-bar {
+            background-color: #181818 !important
+        }
+        
+        .highlight-bar::before {
+            background-color: #181818 !important;
+            filter: brightness(50%)
+        }
+        
+        .honey {
+            background-color: #eab543 !important
+        }
+        
+        .honey-fill {
+            fill: #eab543 !important
+        }
+        
+        .honey-text {
+            color: #eab543 !important
+        }
+        
+        .honey-dropshadow {
+            background-color: #eab543;
+            filter: drop-shadow(5px 5px 0 rgba(234, 181, 67, 0.6))
+        }
+        
+        .honey-paper {
+            background: linear-gradient(225deg, transparent 26px, #eab543 0) !important
+        }
+        
+        .honey-paper::before {
+            border-color: #eab543 transparent !important;
+            filter: brightness(75%) !important
+        }
+        
+        .honey-bar {
+            background-color: #eab543 !important
+        }
+        
+        .honey-bar::before {
+            background-color: #eab543 !important;
+            filter: brightness(50%)
+        }
+        
+        .lavender {
+            background-color: #b57edc !important
+        }
+        
+        .lavender-fill {
+            fill: #b57edc !important
+        }
+        
+        .lavender-text {
+            color: #b57edc !important
+        }
+        
+        .lavender-dropshadow {
+            background-color: #b57edc;
+            filter: drop-shadow(5px 5px 0 rgba(181, 126, 220, 0.6))
+        }
+        
+        .lavender-paper {
+            background: linear-gradient(225deg, transparent 26px, #b57edc 0) !important
+        }
+        
+        .lavender-paper::before {
+            border-color: #b57edc transparent !important;
+            filter: brightness(75%) !important
+        }
+        
+        .lavender-bar {
+            background-color: #b57edc !important
+        }
+        
+        .lavender-bar::before {
+            background-color: #b57edc !important;
+            filter: brightness(50%)
+        }
+        
+        .light {
+            background-color: #f8f9fa !important
+        }
+        
+        .light-fill {
+            fill: #f8f9fa !important
+        }
+        
+        .light-text {
+            color: #f8f9fa !important
+        }
+        
+        .light-dropshadow {
+            background-color: #f8f9fa;
+            filter: drop-shadow(5px 5px 0 rgba(248, 249, 250, 0.6))
+        }
+        
+        .light-paper {
+            background: linear-gradient(225deg, transparent 26px, #f8f9fa 0) !important
+        }
+        
+        .light-paper::before {
+            border-color: #f8f9fa transparent !important;
+            filter: brightness(75%) !important
+        }
+        
+        .light-bar {
+            background-color: #f8f9fa !important
+        }
+        
+        .light-bar::before {
+            background-color: #f8f9fa !important;
+            filter: brightness(50%)
+        }
+        
+        .lemon {
+            background-color: #ffeaa7 !important
+        }
+        
+        .lemon-fill {
+            fill: #ffeaa7 !important
+        }
+        
+        .lemon-text {
+            color: #ffeaa7 !important
+        }
+        
+        .lemon-dropshadow {
+            background-color: #ffeaa7;
+            filter: drop-shadow(5px 5px 0 rgba(255, 234, 167, 0.6))
+        }
+        
+        .lemon-paper {
+            background: linear-gradient(225deg, transparent 26px, #ffeaa7 0) !important
+        }
+        
+        .lemon-paper::before {
+            border-color: #ffeaa7 transparent !important;
+            filter: brightness(75%) !important
+        }
+        
+        .lemon-bar {
+            background-color: #ffeaa7 !important
+        }
+        
+        .lemon-bar::before {
+            background-color: #ffeaa7 !important;
+            filter: brightness(50%)
+        }
+        
+        .marine-blue {
+            background-color: #0652dd !important
+        }
+        
+        .marine-blue-fill {
+            fill: #0652dd !important
+        }
+        
+        .marine-blue-text {
+            color: #0652dd !important
+        }
+        
+        .marine-blue-dropshadow {
+            background-color: #0652dd;
+            filter: drop-shadow(5px 5px 0 rgba(6, 82, 221, 0.6))
+        }
+        
+        .marine-blue-paper {
+            background: linear-gradient(225deg, transparent 26px, #0652dd 0) !important
+        }
+        
+        .marine-blue-paper::before {
+            border-color: #0652dd transparent !important;
+            filter: brightness(75%) !important
+        }
+        
+        .marine-blue-bar {
+            background-color: #0652dd !important
+        }
+        
+        .marine-blue-bar::before {
+            background-color: #0652dd !important;
+            filter: brightness(50%)
+        }
+        
+        .midnight-blue {
+            background-color: #2c3e50 !important
+        }
+        
+        .midnight-blue-fill {
+            fill: #2c3e50 !important
+        }
+        
+        .midnight-blue-text {
+            color: #2c3e50 !important
+        }
+        
+        .midnight-blue-dropshadow {
+            background-color: #2c3e50;
+            filter: drop-shadow(5px 5px 0 rgba(44, 62, 80, 0.6))
+        }
+        
+        .midnight-blue-paper {
+            background: linear-gradient(225deg, transparent 26px, #2c3e50 0) !important
+        }
+        
+        .midnight-blue-paper::before {
+            border-color: #2c3e50 transparent !important;
+            filter: brightness(75%) !important
+        }
+        
+        .midnight-blue-bar {
+            background-color: #2c3e50 !important
+        }
+        
+        .midnight-blue-bar::before {
+            background-color: #2c3e50 !important;
+            filter: brightness(50%)
+        }
+        
+        .navy-blue {
+            background-color: #182c61 !important
+        }
+        
+        .navy-blue-fill {
+            fill: #182c61 !important
+        }
+        
+        .navy-blue-text {
+            color: #182c61 !important
+        }
+        
+        .navy-blue-dropshadow {
+            background-color: #182c61;
+            filter: drop-shadow(5px 5px 0 rgba(24, 44, 97, 0.6))
+        }
+        
+        .navy-blue-paper {
+            background: linear-gradient(225deg, transparent 26px, #182c61 0) !important
+        }
+        
+        .navy-blue-paper::before {
+            border-color: #182c61 transparent !important;
+            filter: brightness(75%) !important
+        }
+        
+        .navy-blue-bar {
+            background-color: #182c61 !important
+        }
+        
+        .navy-blue-bar::before {
+            background-color: #182c61 !important;
+            filter: brightness(50%)
+        }
+        
+        .nephritis-blue {
+            background-color: #27ae60 !important
+        }
+        
+        .nephritis-blue-fill {
+            fill: #27ae60 !important
+        }
+        
+        .nephritis-blue-text {
+            color: #27ae60 !important
+        }
+        
+        .nephritis-blue-dropshadow {
+            background-color: #27ae60;
+            filter: drop-shadow(5px 5px 0 rgba(39, 174, 96, 0.6))
+        }
+        
+        .nephritis-blue-paper {
+            background: linear-gradient(225deg, transparent 26px, #27ae60 0) !important
+        }
+        
+        .nephritis-blue-paper::before {
+            border-color: #27ae60 transparent !important;
+            filter: brightness(75%) !important
+        }
+        
+        .nephritis-blue-bar {
+            background-color: #27ae60 !important
+        }
+        
+        .nephritis-blue-bar::before {
+            background-color: #27ae60 !important;
+            filter: brightness(50%)
+        }
+        
+        .not-black {
+            background-color: #23272a !important
+        }
+        
+        .not-black-fill {
+            fill: #23272a !important
+        }
+        
+        .not-black-text {
+            color: #23272a !important
+        }
+        
+        .not-black-dropshadow {
+            background-color: #23272a;
+            filter: drop-shadow(5px 5px 0 rgba(35, 39, 42, 0.6))
+        }
+        
+        .not-black-paper {
+            background: linear-gradient(225deg, transparent 26px, #23272a 0) !important
+        }
+        
+        .not-black-paper::before {
+            border-color: #23272a transparent !important;
+            filter: brightness(75%) !important
+        }
+        
+        .not-black-bar {
+            background-color: #23272a !important
+        }
+        
+        .not-black-bar::before {
+            background-color: #23272a !important;
+            filter: brightness(50%)
+        }
+        
+        .orange {
+            background-color: #f39c12 !important
+        }
+        
+        .orange-fill {
+            fill: #f39c12 !important
+        }
+        
+        .orange-text {
+            color: #f39c12 !important
+        }
+        
+        .orange-dropshadow {
+            background-color: #f39c12;
+            filter: drop-shadow(5px 5px 0 rgba(243, 156, 18, 0.6))
+        }
+        
+        .orange-paper {
+            background: linear-gradient(225deg, transparent 26px, #f39c12 0) !important
+        }
+        
+        .orange-paper::before {
+            border-color: #f39c12 transparent !important;
+            filter: brightness(75%) !important
+        }
+        
+        .orange-bar {
+            background-color: #f39c12 !important
+        }
+        
+        .orange-bar::before {
+            background-color: #f39c12 !important;
+            filter: brightness(50%)
+        }
+        
+        .peach {
+            background-color: #f49898 !important
+        }
+        
+        .peach-fill {
+            fill: #f49898 !important
+        }
+        
+        .peach-text {
+            color: #f49898 !important
+        }
+        
+        .peach-dropshadow {
+            background-color: #f49898;
+            filter: drop-shadow(5px 5px 0 rgba(244, 152, 152, 0.6))
+        }
+        
+        .peach-paper {
+            background: linear-gradient(225deg, transparent 26px, #f49898 0) !important
+        }
+        
+        .peach-paper::before {
+            border-color: #f49898 transparent !important;
+            filter: brightness(75%) !important
+        }
+        
+        .peach-bar {
+            background-color: #f49898 !important
+        }
+        
+        .peach-bar::before {
+            background-color: #f49898 !important;
+            filter: brightness(50%)
+        }
+        
+        .peter-river {
+            background-color: #3498db !important
+        }
+        
+        .peter-river-fill {
+            fill: #3498db !important
+        }
+        
+        .peter-river-text {
+            color: #3498db !important
+        }
+        
+        .peter-river-dropshadow {
+            background-color: #3498db;
+            filter: drop-shadow(5px 5px 0 rgba(52, 152, 219, 0.6))
+        }
+        
+        .peter-river-paper {
+            background: linear-gradient(225deg, transparent 26px, #3498db 0) !important
+        }
+        
+        .peter-river-paper::before {
+            border-color: #3498db transparent !important;
+            filter: brightness(75%) !important
+        }
+        
+        .peter-river-bar {
+            background-color: #3498db !important
+        }
+        
+        .peter-river-bar::before {
+            background-color: #3498db !important;
+            filter: brightness(50%)
+        }
+        
+        .pink-cherry {
+            background-color: #e84393 !important
+        }
+        
+        .pink-cherry-fill {
+            fill: #e84393 !important
+        }
+        
+        .pink-cherry-text {
+            color: #e84393 !important
+        }
+        
+        .pink-cherry-dropshadow {
+            background-color: #e84393;
+            filter: drop-shadow(5px 5px 0 rgba(232, 67, 147, 0.6))
+        }
+        
+        .pink-cherry-paper {
+            background: linear-gradient(225deg, transparent 26px, #e84393 0) !important
+        }
+        
+        .pink-cherry-paper::before {
+            border-color: #e84393 transparent !important;
+            filter: brightness(75%) !important
+        }
+        
+        .pink-cherry-bar {
+            background-color: #e84393 !important
+        }
+        
+        .pink-cherry-bar::before {
+            background-color: #e84393 !important;
+            filter: brightness(50%)
+        }
+        
+        .pine {
+            background-color: #bdc581 !important
+        }
+        
+        .pine-fill {
+            fill: #bdc581 !important
+        }
+        
+        .pine-text {
+            color: #bdc581 !important
+        }
+        
+        .pine-dropshadow {
+            background-color: #bdc581;
+            filter: drop-shadow(5px 5px 0 rgba(189, 197, 129, 0.6))
+        }
+        
+        .pine-paper {
+            background: linear-gradient(225deg, transparent 26px, #bdc581 0) !important
+        }
+        
+        .pine-paper::before {
+            border-color: #bdc581 transparent !important;
+            filter: brightness(75%) !important
+        }
+        
+        .pine-bar {
+            background-color: #bdc581 !important
+        }
+        
+        .pine-bar::before {
+            background-color: #bdc581 !important;
+            filter: brightness(50%)
+        }
+        
+        .pinewood {
+            background-color: #fdcb6e !important
+        }
+        
+        .pinewood-fill {
+            fill: #fdcb6e !important
+        }
+        
+        .pinewood-text {
+            color: #fdcb6e !important
+        }
+        
+        .pinewood-dropshadow {
+            background-color: #fdcb6e;
+            filter: drop-shadow(5px 5px 0 rgba(253, 203, 110, 0.6))
+        }
+        
+        .pinewood-paper {
+            background: linear-gradient(225deg, transparent 26px, #fdcb6e 0) !important
+        }
+        
+        .pinewood-paper::before {
+            border-color: #fdcb6e transparent !important;
+            filter: brightness(75%) !important
+        }
+        
+        .pinewood-bar {
+            background-color: #fdcb6e !important
+        }
+        
+        .pinewood-bar::before {
+            background-color: #fdcb6e !important;
+            filter: brightness(50%)
+        }
+        
+        .pomegranate {
+            background-color: #c0392b !important
+        }
+        
+        .pomegranate-fill {
+            fill: #c0392b !important
+        }
+        
+        .pomegranate-text {
+            color: #c0392b !important
+        }
+        
+        .pomegranate-dropshadow {
+            background-color: #c0392b;
+            filter: drop-shadow(5px 5px 0 rgba(192, 57, 43, 0.6))
+        }
+        
+        .pomegranate-paper {
+            background: linear-gradient(225deg, transparent 26px, #c0392b 0) !important
+        }
+        
+        .pomegranate-paper::before {
+            border-color: #c0392b transparent !important;
+            filter: brightness(75%) !important
+        }
+        
+        .pomegranate-bar {
+            background-color: #c0392b !important
+        }
+        
+        .pomegranate-bar::before {
+            background-color: #c0392b !important;
+            filter: brightness(50%)
+        }
+        
+        .primary {
+            background-color: #282828 !important
+        }
+        
+        .primary-fill {
+            fill: #282828 !important
+        }
+        
+        .primary-text {
+            color: #282828 !important
+        }
+        
+        .primary-dropshadow {
+            background-color: #282828;
+            filter: drop-shadow(5px 5px 0 rgba(40, 40, 40, 0.6))
+        }
+        
+        .primary-paper {
+            background: linear-gradient(225deg, transparent 26px, #282828 0) !important
+        }
+        
+        .primary-paper::before {
+            border-color: #282828 transparent !important;
+            filter: brightness(75%) !important
+        }
+        
+        .primary-bar {
+            background-color: #282828 !important
+        }
+        
+        .primary-bar::before {
+            background-color: #282828 !important;
+            filter: brightness(50%)
+        }
+        
+        .pumpkin {
+            background-color: #d35400 !important
+        }
+        
+        .pumpkin-fill {
+            fill: #d35400 !important
+        }
+        
+        .pumpkin-text {
+            color: #d35400 !important
+        }
+        
+        .pumpkin-dropshadow {
+            background-color: #d35400;
+            filter: drop-shadow(5px 5px 0 rgba(211, 84, 0, 0.6))
+        }
+        
+        .pumpkin-paper {
+            background: linear-gradient(225deg, transparent 26px, #d35400 0) !important
+        }
+        
+        .pumpkin-paper::before {
+            border-color: #d35400 transparent !important;
+            filter: brightness(75%) !important
+        }
+        
+        .pumpkin-bar {
+            background-color: #d35400 !important
+        }
+        
+        .pumpkin-bar::before {
+            background-color: #d35400 !important;
+            filter: brightness(50%)
+        }
+        
+        .rasberry {
+            background-color: #c51d4a !important
+        }
+        
+        .rasberry-fill {
+            fill: #c51d4a !important
+        }
+        
+        .rasberry-text {
+            color: #c51d4a !important
+        }
+        
+        .rasberry-dropshadow {
+            background-color: #c51d4a;
+            filter: drop-shadow(5px 5px 0 rgba(197, 29, 74, 0.6))
+        }
+        
+        .rasberry-paper {
+            background: linear-gradient(225deg, transparent 26px, #c51d4a 0) !important
+        }
+        
+        .rasberry-paper::before {
+            border-color: #c51d4a transparent !important;
+            filter: brightness(75%) !important
+        }
+        
+        .rasberry-bar {
+            background-color: #c51d4a !important
+        }
+        
+        .rasberry-bar::before {
+            background-color: #c51d4a !important;
+            filter: brightness(50%)
+        }
+        
+        .raw-purple {
+            background-color: #7222c9 !important
+        }
+        
+        .raw-purple-fill {
+            fill: #7222c9 !important
+        }
+        
+        .raw-purple-text {
+            color: #7222c9 !important
+        }
+        
+        .raw-purple-dropshadow {
+            background-color: #7222c9;
+            filter: drop-shadow(5px 5px 0 rgba(114, 34, 201, 0.6))
+        }
+        
+        .raw-purple-paper {
+            background: linear-gradient(225deg, transparent 26px, #7222c9 0) !important
+        }
+        
+        .raw-purple-paper::before {
+            border-color: #7222c9 transparent !important;
+            filter: brightness(75%) !important
+        }
+        
+        .raw-purple-bar {
+            background-color: #7222c9 !important
+        }
+        
+        .raw-purple-bar::before {
+            background-color: #7222c9 !important;
+            filter: brightness(50%)
+        }
+        
+        .secondary {
+            background-color: #303030 !important
+        }
+        
+        .secondary-fill {
+            fill: #303030 !important
+        }
+        
+        .secondary-text {
+            color: #303030 !important
+        }
+        
+        .secondary-dropshadow {
+            background-color: #303030;
+            filter: drop-shadow(5px 5px 0 rgba(48, 48, 48, 0.6))
+        }
+        
+        .secondary-paper {
+            background: linear-gradient(225deg, transparent 26px, #303030 0) !important
+        }
+        
+        .secondary-paper::before {
+            border-color: #303030 transparent !important;
+            filter: brightness(75%) !important
+        }
+        
+        .secondary-bar {
+            background-color: #303030 !important
+        }
+        
+        .secondary-bar::before {
+            background-color: #303030 !important;
+            filter: brightness(50%)
+        }
+        
+        .silver {
+            background-color: #7f8c8d !important
+        }
+        
+        .silver-fill {
+            fill: #7f8c8d !important
+        }
+        
+        .silver-text {
+            color: #7f8c8d !important
+        }
+        
+        .silver-dropshadow {
+            background-color: #7f8c8d;
+            filter: drop-shadow(5px 5px 0 rgba(127, 140, 141, 0.6))
+        }
+        
+        .silver-paper {
+            background: linear-gradient(225deg, transparent 26px, #7f8c8d 0) !important
+        }
+        
+        .silver-paper::before {
+            border-color: #7f8c8d transparent !important;
+            filter: brightness(75%) !important
+        }
+        
+        .silver-bar {
+            background-color: #7f8c8d !important
+        }
+        
+        .silver-bar::before {
+            background-color: #7f8c8d !important;
+            filter: brightness(50%)
+        }
+        
+        .soft-purple {
+            background-color: #6c5ce7 !important
+        }
+        
+        .soft-purple-fill {
+            fill: #6c5ce7 !important
+        }
+        
+        .soft-purple-text {
+            color: #6c5ce7 !important
+        }
+        
+        .soft-purple-dropshadow {
+            background-color: #6c5ce7;
+            filter: drop-shadow(5px 5px 0 rgba(108, 92, 231, 0.6))
+        }
+        
+        .soft-purple-paper {
+            background: linear-gradient(225deg, transparent 26px, #6c5ce7 0) !important
+        }
+        
+        .soft-purple-paper::before {
+            border-color: #6c5ce7 transparent !important;
+            filter: brightness(75%) !important
+        }
+        
+        .soft-purple-bar {
+            background-color: #6c5ce7 !important
+        }
+        
+        .soft-purple-bar::before {
+            background-color: #6c5ce7 !important;
+            filter: brightness(50%)
+        }
+        
+        .sun-flower {
+            background-color: #f1c40f !important
+        }
+        
+        .sun-flower-fill {
+            fill: #f1c40f !important
+        }
+        
+        .sun-flower-text {
+            color: #f1c40f !important
+        }
+        
+        .sun-flower-dropshadow {
+            background-color: #f1c40f;
+            filter: drop-shadow(5px 5px 0 rgba(241, 196, 15, 0.6))
+        }
+        
+        .sun-flower-paper {
+            background: linear-gradient(225deg, transparent 26px, #f1c40f 0) !important
+        }
+        
+        .sun-flower-paper::before {
+            border-color: #f1c40f transparent !important;
+            filter: brightness(75%) !important
+        }
+        
+        .sun-flower-bar {
+            background-color: #f1c40f !important
+        }
+        
+        .sun-flower-bar::before {
+            background-color: #f1c40f !important;
+            filter: brightness(50%)
+        }
+        
+        .transparent {
+            background-color: transparent !important
+        }
+        
+        .transparent-fill {
+            fill: transparent !important
+        }
+        
+        .transparent-text {
+            color: transparent !important
+        }
+        
+        .transparent-dropshadow {
+            background-color: transparent;
+            filter: drop-shadow(5px 5px 0 rgba(0, 0, 0, 0.6))
+        }
+        
+        .transparent-paper {
+            background: linear-gradient(225deg, transparent 26px, transparent 0) !important
+        }
+        
+        .transparent-paper::before {
+            border-color: transparent transparent !important;
+            filter: brightness(75%) !important
+        }
+        
+        .transparent-bar {
+            background-color: transparent !important
+        }
+        
+        .transparent-bar::before {
+            background-color: transparent !important;
+            filter: brightness(50%)
+        }
+        
+        .turquoise {
+            background-color: #1abc9c !important
+        }
+        
+        .turquoise-fill {
+            fill: #1abc9c !important
+        }
+        
+        .turquoise-text {
+            color: #1abc9c !important
+        }
+        
+        .turquoise-dropshadow {
+            background-color: #1abc9c;
+            filter: drop-shadow(5px 5px 0 rgba(26, 188, 156, 0.6))
+        }
+        
+        .turquoise-paper {
+            background: linear-gradient(225deg, transparent 26px, #1abc9c 0) !important
+        }
+        
+        .turquoise-paper::before {
+            border-color: #1abc9c transparent !important;
+            filter: brightness(75%) !important
+        }
+        
+        .turquoise-bar {
+            background-color: #1abc9c !important
+        }
+        
+        .turquoise-bar::before {
+            background-color: #1abc9c !important;
+            filter: brightness(50%)
+        }
+        
+        .watermelon {
+            background-color: #ff4757 !important
+        }
+        
+        .watermelon-fill {
+            fill: #ff4757 !important
+        }
+        
+        .watermelon-text {
+            color: #ff4757 !important
+        }
+        
+        .watermelon-dropshadow {
+            background-color: #ff4757;
+            filter: drop-shadow(5px 5px 0 rgba(255, 71, 87, 0.6))
+        }
+        
+        .watermelon-paper {
+            background: linear-gradient(225deg, transparent 26px, #ff4757 0) !important
+        }
+        
+        .watermelon-paper::before {
+            border-color: #ff4757 transparent !important;
+            filter: brightness(75%) !important
+        }
+        
+        .watermelon-bar {
+            background-color: #ff4757 !important
+        }
+        
+        .watermelon-bar::before {
+            background-color: #ff4757 !important;
+            filter: brightness(50%)
+        }
+        
+        .wet-asphalt {
+            background-color: #34495e !important
+        }
+        
+        .wet-asphalt-fill {
+            fill: #34495e !important
+        }
+        
+        .wet-asphalt-text {
+            color: #34495e !important
+        }
+        
+        .wet-asphalt-dropshadow {
+            background-color: #34495e;
+            filter: drop-shadow(5px 5px 0 rgba(52, 73, 94, 0.6))
+        }
+        
+        .wet-asphalt-paper {
+            background: linear-gradient(225deg, transparent 26px, #34495e 0) !important
+        }
+        
+        .wet-asphalt-paper::before {
+            border-color: #34495e transparent !important;
+            filter: brightness(75%) !important
+        }
+        
+        .wet-asphalt-bar {
+            background-color: #34495e !important
+        }
+        
+        .wet-asphalt-bar::before {
+            background-color: #34495e !important;
+            filter: brightness(50%)
+        }
+        
+        .white {
+            background-color: #fff !important
+        }
+        
+        .white-fill {
+            fill: #fff !important
+        }
+        
+        .white-text {
+            color: #fff !important
+        }
+        
+        .white-dropshadow {
+            background-color: #fff;
+            filter: drop-shadow(5px 5px 0 rgba(255, 255, 255, 0.6))
+        }
+        
+        .white-paper {
+            background: linear-gradient(225deg, transparent 26px, #fff 0) !important
+        }
+        
+        .white-paper::before {
+            border-color: #fff transparent !important;
+            filter: brightness(75%) !important
+        }
+        
+        .white-bar {
+            background-color: #fff !important
+        }
+        
+        .white-bar::before {
+            background-color: #fff !important;
+            filter: brightness(50%)
+        }
+        
+        .wisteria {
+            background-color: #8e44ad !important
+        }
+        
+        .wisteria-fill {
+            fill: #8e44ad !important
+        }
+        
+        .wisteria-text {
+            color: #8e44ad !important
+        }
+        
+        .wisteria-dropshadow {
+            background-color: #8e44ad;
+            filter: drop-shadow(5px 5px 0 rgba(142, 68, 173, 0.6))
+        }
+        
+        .wisteria-paper {
+            background: linear-gradient(225deg, transparent 26px, #8e44ad 0) !important
+        }
+        
+        .wisteria-paper::before {
+            border-color: #8e44ad transparent !important;
+            filter: brightness(75%) !important
+        }
+        
+        .wisteria-bar {
+            background-color: #8e44ad !important
+        }
+        
+        .wisteria-bar::before {
+            background-color: #8e44ad !important;
+            filter: brightness(50%)
+        }
+        
+        .amazon {
+            background-color: #f90 !important
+        }
+        
+        .amazon-fill {
+            fill: #f90 !important
+        }
+        
+        .amazon-text {
+            color: #f90 !important
+        }
+        
+        .amazon-dropshadow {
+            background-color: #f90;
+            filter: drop-shadow(5px 5px 0 rgba(255, 153, 0, 0.6))
+        }
+        
+        .amazon-paper {
+            background: linear-gradient(225deg, transparent 26px, #f90 0) !important
+        }
+        
+        .amazon-paper::before {
+            border-color: #f90 transparent !important;
+            filter: brightness(75%) !important
+        }
+        
+        .amazon-bar {
+            background-color: #f90 !important
+        }
+        
+        .amazon-bar::before {
+            background-color: #f90 !important;
+            filter: brightness(50%)
+        }
+        
+        .android {
+            background-color: #8ec047 !important
+        }
+        
+        .android-fill {
+            fill: #8ec047 !important
+        }
+        
+        .android-text {
+            color: #8ec047 !important
+        }
+        
+        .android-dropshadow {
+            background-color: #8ec047;
+            filter: drop-shadow(5px 5px 0 rgba(142, 192, 71, 0.6))
+        }
+        
+        .android-paper {
+            background: linear-gradient(225deg, transparent 26px, #8ec047 0) !important
+        }
+        
+        .android-paper::before {
+            border-color: #8ec047 transparent !important;
+            filter: brightness(75%) !important
+        }
+        
+        .android-bar {
+            background-color: #8ec047 !important
+        }
+        
+        .android-bar::before {
+            background-color: #8ec047 !important;
+            filter: brightness(50%)
+        }
+        
+        .bandcamp {
+            background-color: #619aa9 !important
+        }
+        
+        .bandcamp-fill {
+            fill: #619aa9 !important
+        }
+        
+        .bandcamp-text {
+            color: #619aa9 !important
+        }
+        
+        .bandcamp-dropshadow {
+            background-color: #619aa9;
+            filter: drop-shadow(5px 5px 0 rgba(97, 154, 169, 0.6))
+        }
+        
+        .bandcamp-paper {
+            background: linear-gradient(225deg, transparent 26px, #619aa9 0) !important
+        }
+        
+        .bandcamp-paper::before {
+            border-color: #619aa9 transparent !important;
+            filter: brightness(75%) !important
+        }
+        
+        .bandcamp-bar {
+            background-color: #619aa9 !important
+        }
+        
+        .bandcamp-bar::before {
+            background-color: #619aa9 !important;
+            filter: brightness(50%)
+        }
+        
+        .deviantart {
+            background-color: #05cc47 !important
+        }
+        
+        .deviantart-fill {
+            fill: #05cc47 !important
+        }
+        
+        .deviantart-text {
+            color: #05cc47 !important
+        }
+        
+        .deviantart-dropshadow {
+            background-color: #05cc47;
+            filter: drop-shadow(5px 5px 0 rgba(5, 204, 71, 0.6))
+        }
+        
+        .deviantart-paper {
+            background: linear-gradient(225deg, transparent 26px, #05cc47 0) !important
+        }
+        
+        .deviantart-paper::before {
+            border-color: #05cc47 transparent !important;
+            filter: brightness(75%) !important
+        }
+        
+        .deviantart-bar {
+            background-color: #05cc47 !important
+        }
+        
+        .deviantart-bar::before {
+            background-color: #05cc47 !important;
+            filter: brightness(50%)
+        }
+        
+        .discord {
+            background-color: #7289da !important
+        }
+        
+        .discord-fill {
+            fill: #7289da !important
+        }
+        
+        .discord-text {
+            color: #7289da !important
+        }
+        
+        .discord-dropshadow {
+            background-color: #7289da;
+            filter: drop-shadow(5px 5px 0 rgba(114, 137, 218, 0.6))
+        }
+        
+        .discord-paper {
+            background: linear-gradient(225deg, transparent 26px, #7289da 0) !important
+        }
+        
+        .discord-paper::before {
+            border-color: #7289da transparent !important;
+            filter: brightness(75%) !important
+        }
+        
+        .discord-bar {
+            background-color: #7289da !important
+        }
+        
+        .discord-bar::before {
+            background-color: #7289da !important;
+            filter: brightness(50%)
+        }
+        
+        .facebook {
+            background-color: #3b5998 !important
+        }
+        
+        .facebook-fill {
+            fill: #3b5998 !important
+        }
+        
+        .facebook-text {
+            color: #3b5998 !important
+        }
+        
+        .facebook-dropshadow {
+            background-color: #3b5998;
+            filter: drop-shadow(5px 5px 0 rgba(59, 89, 152, 0.6))
+        }
+        
+        .facebook-paper {
+            background: linear-gradient(225deg, transparent 26px, #3b5998 0) !important
+        }
+        
+        .facebook-paper::before {
+            border-color: #3b5998 transparent !important;
+            filter: brightness(75%) !important
+        }
+        
+        .facebook-bar {
+            background-color: #3b5998 !important
+        }
+        
+        .facebook-bar::before {
+            background-color: #3b5998 !important;
+            filter: brightness(50%)
+        }
+        
+        .gitea {
+            background-color: #5aa509 !important
+        }
+        
+        .gitea-fill {
+            fill: #5aa509 !important
+        }
+        
+        .gitea-text {
+            color: #5aa509 !important
+        }
+        
+        .gitea-dropshadow {
+            background-color: #5aa509;
+            filter: drop-shadow(5px 5px 0 rgba(90, 165, 9, 0.6))
+        }
+        
+        .gitea-paper {
+            background: linear-gradient(225deg, transparent 26px, #5aa509 0) !important
+        }
+        
+        .gitea-paper::before {
+            border-color: #5aa509 transparent !important;
+            filter: brightness(75%) !important
+        }
+        
+        .gitea-bar {
+            background-color: #5aa509 !important
+        }
+        
+        .gitea-bar::before {
+            background-color: #5aa509 !important;
+            filter: brightness(50%)
+        }
+        
+        .github {
+            background-color: #292d32 !important
+        }
+        
+        .github-fill {
+            fill: #292d32 !important
+        }
+        
+        .github-text {
+            color: #292d32 !important
+        }
+        
+        .github-dropshadow {
+            background-color: #292d32;
+            filter: drop-shadow(5px 5px 0 rgba(41, 45, 50, 0.6))
+        }
+        
+        .github-paper {
+            background: linear-gradient(225deg, transparent 26px, #292d32 0) !important
+        }
+        
+        .github-paper::before {
+            border-color: #292d32 transparent !important;
+            filter: brightness(75%) !important
+        }
+        
+        .github-bar {
+            background-color: #292d32 !important
+        }
+        
+        .github-bar::before {
+            background-color: #292d32 !important;
+            filter: brightness(50%)
+        }
+        
+        .gitlab {
+            background-color: #fc6d26 !important
+        }
+        
+        .gitlab-fill {
+            fill: #fc6d26 !important
+        }
+        
+        .gitlab-text {
+            color: #fc6d26 !important
+        }
+        
+        .gitlab-dropshadow {
+            background-color: #fc6d26;
+            filter: drop-shadow(5px 5px 0 rgba(252, 109, 38, 0.6))
+        }
+        
+        .gitlab-paper {
+            background: linear-gradient(225deg, transparent 26px, #fc6d26 0) !important
+        }
+        
+        .gitlab-paper::before {
+            border-color: #fc6d26 transparent !important;
+            filter: brightness(75%) !important
+        }
+        
+        .gitlab-bar {
+            background-color: #fc6d26 !important
+        }
+        
+        .gitlab-bar::before {
+            background-color: #fc6d26 !important;
+            filter: brightness(50%)
+        }
+        
+        .google {
+            background-color: #4285f4 !important
+        }
+        
+        .google-fill {
+            fill: #4285f4 !important
+        }
+        
+        .google-text {
+            color: #4285f4 !important
+        }
+        
+        .google-dropshadow {
+            background-color: #4285f4;
+            filter: drop-shadow(5px 5px 0 rgba(66, 133, 244, 0.6))
+        }
+        
+        .google-paper {
+            background: linear-gradient(225deg, transparent 26px, #4285f4 0) !important
+        }
+        
+        .google-paper::before {
+            border-color: #4285f4 transparent !important;
+            filter: brightness(75%) !important
+        }
+        
+        .google-bar {
+            background-color: #4285f4 !important
+        }
+        
+        .google-bar::before {
+            background-color: #4285f4 !important;
+            filter: brightness(50%)
+        }
+        
+        .googleplus {
+            background-color: #db4437 !important
+        }
+        
+        .googleplus-fill {
+            fill: #db4437 !important
+        }
+        
+        .googleplus-text {
+            color: #db4437 !important
+        }
+        
+        .googleplus-dropshadow {
+            background-color: #db4437;
+            filter: drop-shadow(5px 5px 0 rgba(219, 68, 55, 0.6))
+        }
+        
+        .googleplus-paper {
+            background: linear-gradient(225deg, transparent 26px, #db4437 0) !important
+        }
+        
+        .googleplus-paper::before {
+            border-color: #db4437 transparent !important;
+            filter: brightness(75%) !important
+        }
+        
+        .googleplus-bar {
+            background-color: #db4437 !important
+        }
+        
+        .googleplus-bar::before {
+            background-color: #db4437 !important;
+            filter: brightness(50%)
+        }
+        
+        .instagram {
+            background-color: #c32aa3 !important
+        }
+        
+        .instagram-fill {
+            fill: #c32aa3 !important
+        }
+        
+        .instagram-text {
+            color: #c32aa3 !important
+        }
+        
+        .instagram-dropshadow {
+            background-color: #c32aa3;
+            filter: drop-shadow(5px 5px 0 rgba(195, 42, 163, 0.6))
+        }
+        
+        .instagram-paper {
+            background: linear-gradient(225deg, transparent 26px, #c32aa3 0) !important
+        }
+        
+        .instagram-paper::before {
+            border-color: #c32aa3 transparent !important;
+            filter: brightness(75%) !important
+        }
+        
+        .instagram-bar {
+            background-color: #c32aa3 !important
+        }
+        
+        .instagram-bar::before {
+            background-color: #c32aa3 !important;
+            filter: brightness(50%)
+        }
+        
+        .line {
+            background-color: #00b901 !important
+        }
+        
+        .line-fill {
+            fill: #00b901 !important
+        }
+        
+        .line-text {
+            color: #00b901 !important
+        }
+        
+        .line-dropshadow {
+            background-color: #00b901;
+            filter: drop-shadow(5px 5px 0 rgba(0, 185, 1, 0.6))
+        }
+        
+        .line-paper {
+            background: linear-gradient(225deg, transparent 26px, #00b901 0) !important
+        }
+        
+        .line-paper::before {
+            border-color: #00b901 transparent !important;
+            filter: brightness(75%) !important
+        }
+        
+        .line-bar {
+            background-color: #00b901 !important
+        }
+        
+        .line-bar::before {
+            background-color: #00b901 !important;
+            filter: brightness(50%)
+        }
+        
+        .linkedin {
+            background-color: #007bb5 !important
+        }
+        
+        .linkedin-fill {
+            fill: #007bb5 !important
+        }
+        
+        .linkedin-text {
+            color: #007bb5 !important
+        }
+        
+        .linkedin-dropshadow {
+            background-color: #007bb5;
+            filter: drop-shadow(5px 5px 0 rgba(0, 123, 181, 0.6))
+        }
+        
+        .linkedin-paper {
+            background: linear-gradient(225deg, transparent 26px, #007bb5 0) !important
+        }
+        
+        .linkedin-paper::before {
+            border-color: #007bb5 transparent !important;
+            filter: brightness(75%) !important
+        }
+        
+        .linkedin-bar {
+            background-color: #007bb5 !important
+        }
+        
+        .linkedin-bar::before {
+            background-color: #007bb5 !important;
+            filter: brightness(50%)
+        }
+        
+        .npm {
+            background-color: #c12127 !important
+        }
+        
+        .npm-fill {
+            fill: #c12127 !important
+        }
+        
+        .npm-text {
+            color: #c12127 !important
+        }
+        
+        .npm-dropshadow {
+            background-color: #c12127;
+            filter: drop-shadow(5px 5px 0 rgba(193, 33, 39, 0.6))
+        }
+        
+        .npm-paper {
+            background: linear-gradient(225deg, transparent 26px, #c12127 0) !important
+        }
+        
+        .npm-paper::before {
+            border-color: #c12127 transparent !important;
+            filter: brightness(75%) !important
+        }
+        
+        .npm-bar {
+            background-color: #c12127 !important
+        }
+        
+        .npm-bar::before {
+            background-color: #c12127 !important;
+            filter: brightness(50%)
+        }
+        
+        .patreon {
+            background-color: #f96854 !important
+        }
+        
+        .patreon-fill {
+            fill: #f96854 !important
+        }
+        
+        .patreon-text {
+            color: #f96854 !important
+        }
+        
+        .patreon-dropshadow {
+            background-color: #f96854;
+            filter: drop-shadow(5px 5px 0 rgba(249, 104, 84, 0.6))
+        }
+        
+        .patreon-paper {
+            background: linear-gradient(225deg, transparent 26px, #f96854 0) !important
+        }
+        
+        .patreon-paper::before {
+            border-color: #f96854 transparent !important;
+            filter: brightness(75%) !important
+        }
+        
+        .patreon-bar {
+            background-color: #f96854 !important
+        }
+        
+        .patreon-bar::before {
+            background-color: #f96854 !important;
+            filter: brightness(50%)
+        }
+        
+        .paypal {
+            background-color: #1e9cd7 !important
+        }
+        
+        .paypal-fill {
+            fill: #1e9cd7 !important
+        }
+        
+        .paypal-text {
+            color: #1e9cd7 !important
+        }
+        
+        .paypal-dropshadow {
+            background-color: #1e9cd7;
+            filter: drop-shadow(5px 5px 0 rgba(30, 156, 215, 0.6))
+        }
+        
+        .paypal-paper {
+            background: linear-gradient(225deg, transparent 26px, #1e9cd7 0) !important
+        }
+        
+        .paypal-paper::before {
+            border-color: #1e9cd7 transparent !important;
+            filter: brightness(75%) !important
+        }
+        
+        .paypal-bar {
+            background-color: #1e9cd7 !important
+        }
+        
+        .paypal-bar::before {
+            background-color: #1e9cd7 !important;
+            filter: brightness(50%)
+        }
+        
+        .pinterest {
+            background-color: #bd081c !important
+        }
+        
+        .pinterest-fill {
+            fill: #bd081c !important
+        }
+        
+        .pinterest-text {
+            color: #bd081c !important
+        }
+        
+        .pinterest-dropshadow {
+            background-color: #bd081c;
+            filter: drop-shadow(5px 5px 0 rgba(189, 8, 28, 0.6))
+        }
+        
+        .pinterest-paper {
+            background: linear-gradient(225deg, transparent 26px, #bd081c 0) !important
+        }
+        
+        .pinterest-paper::before {
+            border-color: #bd081c transparent !important;
+            filter: brightness(75%) !important
+        }
+        
+        .pinterest-bar {
+            background-color: #bd081c !important
+        }
+        
+        .pinterest-bar::before {
+            background-color: #bd081c !important;
+            filter: brightness(50%)
+        }
+        
+        .reddit {
+            background-color: #ff4500 !important
+        }
+        
+        .reddit-fill {
+            fill: #ff4500 !important
+        }
+        
+        .reddit-text {
+            color: #ff4500 !important
+        }
+        
+        .reddit-dropshadow {
+            background-color: #ff4500;
+            filter: drop-shadow(5px 5px 0 rgba(255, 69, 0, 0.6))
+        }
+        
+        .reddit-paper {
+            background: linear-gradient(225deg, transparent 26px, #ff4500 0) !important
+        }
+        
+        .reddit-paper::before {
+            border-color: #ff4500 transparent !important;
+            filter: brightness(75%) !important
+        }
+        
+        .reddit-bar {
+            background-color: #ff4500 !important
+        }
+        
+        .reddit-bar::before {
+            background-color: #ff4500 !important;
+            filter: brightness(50%)
+        }
+        
+        .skype {
+            background-color: #41a6ed !important
+        }
+        
+        .skype-fill {
+            fill: #41a6ed !important
+        }
+        
+        .skype-text {
+            color: #41a6ed !important
+        }
+        
+        .skype-dropshadow {
+            background-color: #41a6ed;
+            filter: drop-shadow(5px 5px 0 rgba(65, 166, 237, 0.6))
+        }
+        
+        .skype-paper {
+            background: linear-gradient(225deg, transparent 26px, #41a6ed 0) !important
+        }
+        
+        .skype-paper::before {
+            border-color: #41a6ed transparent !important;
+            filter: brightness(75%) !important
+        }
+        
+        .skype-bar {
+            background-color: #41a6ed !important
+        }
+        
+        .skype-bar::before {
+            background-color: #41a6ed !important;
+            filter: brightness(50%)
+        }
+        
+        .slack {
+            background-color: #4d394b !important
+        }
+        
+        .slack-fill {
+            fill: #4d394b !important
+        }
+        
+        .slack-text {
+            color: #4d394b !important
+        }
+        
+        .slack-dropshadow {
+            background-color: #4d394b;
+            filter: drop-shadow(5px 5px 0 rgba(77, 57, 75, 0.6))
+        }
+        
+        .slack-paper {
+            background: linear-gradient(225deg, transparent 26px, #4d394b 0) !important
+        }
+        
+        .slack-paper::before {
+            border-color: #4d394b transparent !important;
+            filter: brightness(75%) !important
+        }
+        
+        .slack-bar {
+            background-color: #4d394b !important
+        }
+        
+        .slack-bar::before {
+            background-color: #4d394b !important;
+            filter: brightness(50%)
+        }
+        
+        .snapchat {
+            background-color: #fffc00 !important
+        }
+        
+        .snapchat-fill {
+            fill: #fffc00 !important
+        }
+        
+        .snapchat-text {
+            color: #fffc00 !important
+        }
+        
+        .snapchat-dropshadow {
+            background-color: #fffc00;
+            filter: drop-shadow(5px 5px 0 rgba(255, 252, 0, 0.6))
+        }
+        
+        .snapchat-paper {
+            background: linear-gradient(225deg, transparent 26px, #fffc00 0) !important
+        }
+        
+        .snapchat-paper::before {
+            border-color: #fffc00 transparent !important;
+            filter: brightness(75%) !important
+        }
+        
+        .snapchat-bar {
+            background-color: #fffc00 !important
+        }
+        
+        .snapchat-bar::before {
+            background-color: #fffc00 !important;
+            filter: brightness(50%)
+        }
+        
+        .soundcloud {
+            background-color: #f50 !important
+        }
+        
+        .soundcloud-fill {
+            fill: #f50 !important
+        }
+        
+        .soundcloud-text {
+            color: #f50 !important
+        }
+        
+        .soundcloud-dropshadow {
+            background-color: #f50;
+            filter: drop-shadow(5px 5px 0 rgba(255, 85, 0, 0.6))
+        }
+        
+        .soundcloud-paper {
+            background: linear-gradient(225deg, transparent 26px, #f50 0) !important
+        }
+        
+        .soundcloud-paper::before {
+            border-color: #f50 transparent !important;
+            filter: brightness(75%) !important
+        }
+        
+        .soundcloud-bar {
+            background-color: #f50 !important
+        }
+        
+        .soundcloud-bar::before {
+            background-color: #f50 !important;
+            filter: brightness(50%)
+        }
+        
+        .spotify {
+            background-color: #1ed760 !important
+        }
+        
+        .spotify-fill {
+            fill: #1ed760 !important
+        }
+        
+        .spotify-text {
+            color: #1ed760 !important
+        }
+        
+        .spotify-dropshadow {
+            background-color: #1ed760;
+            filter: drop-shadow(5px 5px 0 rgba(30, 215, 96, 0.6))
+        }
+        
+        .spotify-paper {
+            background: linear-gradient(225deg, transparent 26px, #1ed760 0) !important
+        }
+        
+        .spotify-paper::before {
+            border-color: #1ed760 transparent !important;
+            filter: brightness(75%) !important
+        }
+        
+        .spotify-bar {
+            background-color: #1ed760 !important
+        }
+        
+        .spotify-bar::before {
+            background-color: #1ed760 !important;
+            filter: brightness(50%)
+        }
+        
+        .steam {
+            background-color: #171a21 !important
+        }
+        
+        .steam-fill {
+            fill: #171a21 !important
+        }
+        
+        .steam-text {
+            color: #171a21 !important
+        }
+        
+        .steam-dropshadow {
+            background-color: #171a21;
+            filter: drop-shadow(5px 5px 0 rgba(23, 26, 33, 0.6))
+        }
+        
+        .steam-paper {
+            background: linear-gradient(225deg, transparent 26px, #171a21 0) !important
+        }
+        
+        .steam-paper::before {
+            border-color: #171a21 transparent !important;
+            filter: brightness(75%) !important
+        }
+        
+        .steam-bar {
+            background-color: #171a21 !important
+        }
+        
+        .steam-bar::before {
+            background-color: #171a21 !important;
+            filter: brightness(50%)
+        }
+        
+        .telegram {
+            background-color: #08c !important
+        }
+        
+        .telegram-fill {
+            fill: #08c !important
+        }
+        
+        .telegram-text {
+            color: #08c !important
+        }
+        
+        .telegram-dropshadow {
+            background-color: #08c;
+            filter: drop-shadow(5px 5px 0 rgba(0, 136, 204, 0.6))
+        }
+        
+        .telegram-paper {
+            background: linear-gradient(225deg, transparent 26px, #08c 0) !important
+        }
+        
+        .telegram-paper::before {
+            border-color: #08c transparent !important;
+            filter: brightness(75%) !important
+        }
+        
+        .telegram-bar {
+            background-color: #08c !important
+        }
+        
+        .telegram-bar::before {
+            background-color: #08c !important;
+            filter: brightness(50%)
+        }
+        
+        .tumblr {
+            background-color: #35465d !important
+        }
+        
+        .tumblr-fill {
+            fill: #35465d !important
+        }
+        
+        .tumblr-text {
+            color: #35465d !important
+        }
+        
+        .tumblr-dropshadow {
+            background-color: #35465d;
+            filter: drop-shadow(5px 5px 0 rgba(53, 70, 93, 0.6))
+        }
+        
+        .tumblr-paper {
+            background: linear-gradient(225deg, transparent 26px, #35465d 0) !important
+        }
+        
+        .tumblr-paper::before {
+            border-color: #35465d transparent !important;
+            filter: brightness(75%) !important
+        }
+        
+        .tumblr-bar {
+            background-color: #35465d !important
+        }
+        
+        .tumblr-bar::before {
+            background-color: #35465d !important;
+            filter: brightness(50%)
+        }
+        
+        .twitch {
+            background-color: #6441a4 !important
+        }
+        
+        .twitch-fill {
+            fill: #6441a4 !important
+        }
+        
+        .twitch-text {
+            color: #6441a4 !important
+        }
+        
+        .twitch-dropshadow {
+            background-color: #6441a4;
+            filter: drop-shadow(5px 5px 0 rgba(100, 65, 164, 0.6))
+        }
+        
+        .twitch-paper {
+            background: linear-gradient(225deg, transparent 26px, #6441a4 0) !important
+        }
+        
+        .twitch-paper::before {
+            border-color: #6441a4 transparent !important;
+            filter: brightness(75%) !important
+        }
+        
+        .twitch-bar {
+            background-color: #6441a4 !important
+        }
+        
+        .twitch-bar::before {
+            background-color: #6441a4 !important;
+            filter: brightness(50%)
+        }
+        
+        .twitter {
+            background-color: #1da1f2 !important
+        }
+        
+        .twitter-fill {
+            fill: #1da1f2 !important
+        }
+        
+        .twitter-text {
+            color: #1da1f2 !important
+        }
+        
+        .twitter-dropshadow {
+            background-color: #1da1f2;
+            filter: drop-shadow(5px 5px 0 rgba(29, 161, 242, 0.6))
+        }
+        
+        .twitter-paper {
+            background: linear-gradient(225deg, transparent 26px, #1da1f2 0) !important
+        }
+        
+        .twitter-paper::before {
+            border-color: #1da1f2 transparent !important;
+            filter: brightness(75%) !important
+        }
+        
+        .twitter-bar {
+            background-color: #1da1f2 !important
+        }
+        
+        .twitter-bar::before {
+            background-color: #1da1f2 !important;
+            filter: brightness(50%)
+        }
+        
+        .viber {
+            background-color: #7f4d9b !important
+        }
+        
+        .viber-fill {
+            fill: #7f4d9b !important
+        }
+        
+        .viber-text {
+            color: #7f4d9b !important
+        }
+        
+        .viber-dropshadow {
+            background-color: #7f4d9b;
+            filter: drop-shadow(5px 5px 0 rgba(127, 77, 155, 0.6))
+        }
+        
+        .viber-paper {
+            background: linear-gradient(225deg, transparent 26px, #7f4d9b 0) !important
+        }
+        
+        .viber-paper::before {
+            border-color: #7f4d9b transparent !important;
+            filter: brightness(75%) !important
+        }
+        
+        .viber-bar {
+            background-color: #7f4d9b !important
+        }
+        
+        .viber-bar::before {
+            background-color: #7f4d9b !important;
+            filter: brightness(50%)
+        }
+        
+        .whatsapp {
+            background-color: #25d366 !important
+        }
+        
+        .whatsapp-fill {
+            fill: #25d366 !important
+        }
+        
+        .whatsapp-text {
+            color: #25d366 !important
+        }
+        
+        .whatsapp-dropshadow {
+            background-color: #25d366;
+            filter: drop-shadow(5px 5px 0 rgba(37, 211, 102, 0.6))
+        }
+        
+        .whatsapp-paper {
+            background: linear-gradient(225deg, transparent 26px, #25d366 0) !important
+        }
+        
+        .whatsapp-paper::before {
+            border-color: #25d366 transparent !important;
+            filter: brightness(75%) !important
+        }
+        
+        .whatsapp-bar {
+            background-color: #25d366 !important
+        }
+        
+        .whatsapp-bar::before {
+            background-color: #25d366 !important;
+            filter: brightness(50%)
+        }
+        
+        .youtube {
+            background-color: red !important
+        }
+        
+        .youtube-fill {
+            fill: red !important
+        }
+        
+        .youtube-text {
+            color: red !important
+        }
+        
+        .youtube-dropshadow {
+            background-color: red;
+            filter: drop-shadow(5px 5px 0 rgba(255, 0, 0, 0.6))
+        }
+        
+        .youtube-paper {
+            background: linear-gradient(225deg, transparent 26px, red 0) !important
+        }
+        
+        .youtube-paper::before {
+            border-color: red transparent !important;
+            filter: brightness(75%) !important
+        }
+        
+        .youtube-bar {
+            background-color: red !important
+        }
+        
+        .youtube-bar::before {
+            background-color: red !important;
+            filter: brightness(50%)
         }
